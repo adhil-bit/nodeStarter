@@ -25,7 +25,7 @@ One-paragraph project overview. Explain what the project does, its main features
 
 ## Demo
 
-Include screenshots, gifs, or a link to a live demo of your project.
+postman url :- 
 
 ## Installation
 
