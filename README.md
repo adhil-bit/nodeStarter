@@ -1,11 +1,8 @@
 # nodeStarter
+
 nodejs starter for new bies
 Auth module with passport.js + Mysql + express
 #backend stuff only
-
-# Project Name
-
-Short project description or tagline.
 
 ![Project Logo or Screenshot](images/logo.png)
 
@@ -36,7 +33,7 @@ Provide step-by-step instructions on how to install and set up your project.
 
 ```bash
 # Clone the repository
-git clone link
+git clone https://github.com/adhil-bit/nodeStarter.git
 
 # Change directory
 cd nodeStarter
